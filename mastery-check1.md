@@ -13,7 +13,7 @@
 - Tell Python to cube -- raise to the power of three -- the second number
 - Use variables, the print function and f-strings as needed to:
 
-    -   display a brief description of what this script will do
+    -   display a brief description or summary of what this script will do
 
     -   display a sentence that tells the user what the first number and its square are
 
