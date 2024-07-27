@@ -7,7 +7,7 @@
 
 ## Your Script
 
-- Add a comment block to the top of your script
+- Add a comment block to the top of your script (name, date, project title)
 - Prompt the user for two numbers
 - Have Python square the first number
 - Tell Python to cube -- raise to the power of three -- the second number
