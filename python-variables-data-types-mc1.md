@@ -10,7 +10,7 @@
 ## Your Script
 
 - Add a comment block to the top of your script (name, date, project title)
-- Prompt the user for two numbers
+- Prompt the user for two numbers, and assign each number to its own variable
 - Have Python square the first number
 - Tell Python to cube -- raise to the power of three -- the second number
 - Use variables, the print function and f-strings as needed to:
