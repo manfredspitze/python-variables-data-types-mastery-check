@@ -1,4 +1,4 @@
-# Mastery Check: Python Variables & Data Types
+# Mastery Check 1: Python Variables & Data Types
 
 ## Submitting Your Work
 > Create a GitHub repo named: ***variables-data-types-mc***
