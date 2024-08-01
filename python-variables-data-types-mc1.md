@@ -15,10 +15,10 @@
 - Tell Python to cube -- raise to the power of three -- the second number
 - Use variables, the print function and f-strings as needed to:
 
-    -   display a brief description or summary of what this script will do
+    -   display a 1-sentence summary of what this script will do
 
-    -   display a sentence that tells the user what the first number and its square are
+    -   display a sentence that tells the user what the first number and its calculated square are
 
-    -   display a sentence that tells the user what the second number and its cube are
+    -   display a sentence that tells the user what the second number and its calculated cube are
 
     -   thank the user for using your script 
