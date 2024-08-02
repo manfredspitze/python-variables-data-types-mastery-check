@@ -1,7 +1,7 @@
 # Mastery Check 2: Python Variables & Data Types
 
 ## Submitting Your Work
-> Create a GitHub repo named: ***variables-data-types-mc2***
+> Create a **PUBLIC** GitHub repo named: ***variables-data-types-mc2***
 >
 > Paste the URL (web address) that points to your repo into Google Classroom
 >
